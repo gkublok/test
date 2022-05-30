@@ -15,3 +15,5 @@ print(avg_subject('Math'))
 def avg_student():
     return (avg_subject('Math') + avg_subject('German') + avg_subject('English'))/3
 print(avg_student())
+
+#lalalala
